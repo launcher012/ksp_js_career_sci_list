@@ -11,7 +11,7 @@ alert('add active contracts.  Adjust witty messages to put game type later');
 			'count_off_science':' Scientific Mission',
 			'sorting_data':'Boss Kerman is going to fire someone. This data is a mess... ',
 			'data_anomaly':'Oh there is some weird data... We\'ll rearrange the ',
-			'sorting_table':'Okay everything is order. Here we go!',
+			'sorting_table':'Okay everything is in order. Here we go!',
 			'done':'A Distinguished Career!'
 		},
 		page_data_schema={
